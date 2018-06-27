@@ -1,5 +1,7 @@
 # Planning
 
-This repository is a collection of all the resources/curricula I'll be using to progress on moy personal learning path.
-For now, this path mainly covers my journey into becoming a full-stack developer. You can check out the curriculum I'm using
-for that matter [here](https://github.com/gpfaucher/planning/blob/master/curricula/JS%20Dev.md)
+This repository is my roadmap on the way of becoming a self-taught web developer. This roadmap will consist of many different disciplines working together in harmony, so I strongly suggest you examine this repository and only adopt what you think will benefit you in the long term. 
+
+Project-specific plannings:
+
+- [Custom LMS with an Express.js/Node.js back-end, a MongoDB Database, and a React.js/Redux Front-end](https://github.com/gpfaucher/planning/blob/master/projects/LMS.md)
